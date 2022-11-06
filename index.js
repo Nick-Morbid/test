@@ -7,4 +7,8 @@ window.load()= function(){
 function myfunc(){
 	console.log("hello world!")
 	
+	console.log("这是陈宏侨版本！");
+	console.log("这是陈宏侨版本！");
+	console.log("这是陈宏侨版本！");
+	console.log("这是陈宏侨版本！");
 }
